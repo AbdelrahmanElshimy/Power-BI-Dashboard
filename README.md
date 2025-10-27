@@ -1,9 +1,5 @@
 # Power-BI-Dashboard
 
-# Power BI Sales Dashboard
-
-This repository contains the **Sales Dashboard** built in Power BI (`sales.pbix`), along with key screenshots illustrating its structure and functionality.
-
 ---
 
 ## 📊 Sales Overview
